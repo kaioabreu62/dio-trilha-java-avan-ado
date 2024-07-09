@@ -34,3 +34,4 @@ replay_pid*
 /spring-scopes-singleton-prototype/.mvn/
 /springboot-web/.mvn/
 /springboot-web-swagger/.mvn/
+/aula-spring-data-jpa-exception-handler/.mvn/
