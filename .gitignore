@@ -22,3 +22,15 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/dio-spring-data-jpa/.mvn/
+/dio-spring-data-jpa/.gitignore
+/dio-spring-security/.gitignore
+/dio-spring-security/.mvn/
+/dio-spring-security-database/.mvn/
+/dio-spring-security-jwt/.mvn/
+/spring-configuration-properties/.mvn/
+/spring-ioc-di-beans-autowired/.mvn/
+/spring-properties-value/.mvn/
+/spring-scopes-singleton-prototype/.mvn/
+/springboot-web/.mvn/
+/springboot-web-swagger/.mvn/
