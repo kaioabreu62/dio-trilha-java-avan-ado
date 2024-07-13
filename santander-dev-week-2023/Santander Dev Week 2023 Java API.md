@@ -35,8 +35,8 @@ classDiagram
         -String description
     }
 
-    User --> Account
-    User --> Card
-    User --> Feature
-    User --> News
+    User *--> Account
+    User *--> Card
+    User *--> Feature
+    User *--> News
 ```
